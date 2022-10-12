@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "kr.ac.kumoh.s20200607.W0501CardDealer"
+        applicationId "kr.ac.kumoh.s20200607.W0601CardViewModel"
         minSdk 21
         targetSdk 32
         versionCode 1
